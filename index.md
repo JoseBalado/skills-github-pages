@@ -1,4 +1,4 @@
 ---
-title: Welcome to my blog
+title: Type the content you want for your blog
 ---
 
